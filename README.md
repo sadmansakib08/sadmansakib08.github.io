@@ -1,4 +1,3 @@
-```markdown
 # Sadman Sakib Khan - Portfolio Website
 
 ![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)
